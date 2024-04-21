@@ -1,0 +1,14 @@
+C:\Users\ygold\OneDrive\Desktop\repos\fizzbuzz\bin\Debug\net8.0\fizzbuzz.exe
+C:\Users\ygold\OneDrive\Desktop\repos\fizzbuzz\bin\Debug\net8.0\fizzbuzz.deps.json
+C:\Users\ygold\OneDrive\Desktop\repos\fizzbuzz\bin\Debug\net8.0\fizzbuzz.runtimeconfig.json
+C:\Users\ygold\OneDrive\Desktop\repos\fizzbuzz\bin\Debug\net8.0\fizzbuzz.dll
+C:\Users\ygold\OneDrive\Desktop\repos\fizzbuzz\bin\Debug\net8.0\fizzbuzz.pdb
+C:\Users\ygold\OneDrive\Desktop\repos\fizzbuzz\obj\Debug\net8.0\fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygold\OneDrive\Desktop\repos\fizzbuzz\obj\Debug\net8.0\fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\ygold\OneDrive\Desktop\repos\fizzbuzz\obj\Debug\net8.0\fizzbuzz.AssemblyInfo.cs
+C:\Users\ygold\OneDrive\Desktop\repos\fizzbuzz\obj\Debug\net8.0\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\ygold\OneDrive\Desktop\repos\fizzbuzz\obj\Debug\net8.0\fizzbuzz.dll
+C:\Users\ygold\OneDrive\Desktop\repos\fizzbuzz\obj\Debug\net8.0\refint\fizzbuzz.dll
+C:\Users\ygold\OneDrive\Desktop\repos\fizzbuzz\obj\Debug\net8.0\fizzbuzz.pdb
+C:\Users\ygold\OneDrive\Desktop\repos\fizzbuzz\obj\Debug\net8.0\fizzbuzz.genruntimeconfig.cache
+C:\Users\ygold\OneDrive\Desktop\repos\fizzbuzz\obj\Debug\net8.0\ref\fizzbuzz.dll
